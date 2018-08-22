@@ -1,3 +1,4 @@
 # jh_wellstone_me106
-# files for the class written by John Harris
+author: harrisj99 (John Harris)
+description: files for the class written by John Harris
 
